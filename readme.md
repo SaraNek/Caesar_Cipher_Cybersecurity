@@ -1,6 +1,6 @@
 # Caesar Cipher
 
-A simple Python program that encrypts text using the classic Caesar cipher technique. This is my first project as I start learning cybersecurity.
+A simple Python program that encrypts text using the classic Caesar cipher technique. This is my first project as I started learning cybersecurity.
 
 ## What is a Caesar Cipher?
 
